@@ -6,7 +6,6 @@ export const metadata = {
 }
 
 export default function RootLayout({ children, params }) {
-
   return (
     <LayoutBasic
     params={{...params, locale: params.locale}}
