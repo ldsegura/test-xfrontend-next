@@ -1,3 +1,5 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
+import "../../theme/main.scss";
 import LayoutBasic from '../layouts/LayoutBasic';
 
 export const metadata = {
